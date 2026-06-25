@@ -1,0 +1,6 @@
+method,job_id,backend
+KMeans_QCBM,d8ujfptbh0os73er50ug,ibm_fez
+ChowLiu_QCBM,d8ujgbtbh0os73er51m0,ibm_fez
+GNN_QCBM,d8ujh9sbp3hs73864gb0,ibm_fez
+Latent_QCBM,d8ujiidposuc738q9e0g,ibm_fez
+RL_QCBM,d8ujj85bh0os73er55f0,ibm_fez

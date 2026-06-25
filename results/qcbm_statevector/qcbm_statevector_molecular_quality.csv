@@ -1,0 +1,2 @@
+method,generated,validity,uniqueness,novelty,mean_qed,median_qed,mean_sa,median_sa,mean_syba,median_syba,training_time_sec
+QCBM_Statevector,4096,1.0,0.8974609375,0.0,0.6045960144424705,0.5936095409142323,3.7640896308016436,3.7911895843422947,22.88764715840371,18.8720327966246,1.543337299997802

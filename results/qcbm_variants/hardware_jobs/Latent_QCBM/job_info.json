@@ -1,0 +1,16 @@
+{
+    "variant": "Latent_QCBM",
+    "backend": "ibm_fez",
+    "job_id": "d8ujiidposuc738q9e0g",
+    "shots": 4096,
+    "submission_time_sec": 2.4063480000040727,
+    "physical_path": [
+        0,
+        1,
+        2,
+        3,
+        16
+    ],
+    "n_qubits": 5,
+    "n_layers": 3
+}

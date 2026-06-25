@@ -1,0 +1,16 @@
+{
+    "variant": "GNN_QCBM",
+    "backend": "ibm_fez",
+    "job_id": "d8ujh9sbp3hs73864gb0",
+    "shots": 4096,
+    "submission_time_sec": 2.0182972000038717,
+    "physical_path": [
+        0,
+        1,
+        2,
+        3,
+        16
+    ],
+    "n_qubits": 5,
+    "n_layers": 3
+}

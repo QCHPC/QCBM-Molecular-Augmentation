@@ -1,0 +1,35 @@
+{
+    "backend": "ibm_fez",
+    "n_qubits": 5,
+    "n_states": 32,
+    "n_layers": 3,
+    "shots": 4096,
+    "physical_path": [
+        0,
+        1,
+        2,
+        3,
+        16
+    ],
+    "logical_to_physical": {
+        "0": 0,
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 16
+    },
+    "original_depth": 15,
+    "transpiled_depth": 21,
+    "original_ops": {
+        "ry": 15,
+        "rz": 15,
+        "cz": 12,
+        "measure": 5
+    },
+    "transpiled_ops": {
+        "sx": 30,
+        "rz": 30,
+        "cz": 12,
+        "measure": 5
+    }
+}

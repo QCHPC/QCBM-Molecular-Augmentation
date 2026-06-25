@@ -1,0 +1,9 @@
+{
+    "backend": "ibm_fez",
+    "job_id": "d8ueh0kbp3hs7385ru20",
+    "shots": 4096,
+    "n_qubits": 5,
+    "n_states": 32,
+    "n_clusters": 32,
+    "n_layers": 3
+}
